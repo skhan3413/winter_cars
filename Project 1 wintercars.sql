@@ -13,3 +13,7 @@ VALUES
 ('FordF150', 'Ford'),
 ('BMW335i', 'BMW'),
 ('BMW330i', 'BMW');
+
+Select 
+model_name, automaker_name
+FROM autos;
